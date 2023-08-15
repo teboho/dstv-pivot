@@ -6,4 +6,4 @@ They can pivot to being an ISP (Internet Service Provider).
 
 ## Below is a high-level schematic of what that can look like
 
-![DStv ISP](assets/img/DStv Edge.jpg)
+![DStv ISP](assets/img/DStv%20Edge.jpg)
